@@ -11,7 +11,7 @@
 
 > **You can view the working project [here](https://whatsapp-chat-analyzer-4i8l.onrender.com).**
 
-[![WhatsApp Chat Analyzer](https://img.shields.io/badge/WhatsApp_Chat-Analyzer-teal.svg?colorA=teal&colorB=orange&style=for-the-badge)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/) [![IoT](https://img.shields.io/badge/Data-Science-teal.svg?colorA=blue&colorB=red&style=for-the-badge)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/)
+[![WhatsApp Chat Analyzer](https://img.shields.io/badge/WhatsApp_Chat-Analyzer-teal.svg?colorA=teal&colorB=orange&style=for-the-badge)](https://github.com/kharniwal-harsh/WhatsApp-Chat-Analyzer/) [![IoT](https://img.shields.io/badge/Data-Science-teal.svg?colorA=blue&colorB=red&style=for-the-badge)](https://github.com/kharniwal-harsh/WhatsApp-Chat-Analyzer/)
 
 WhatsApp chat Analyzer is a WebApp where anyone either tech or non-tech person can analyze their WhatsApp chat data. With this, you can get information such as Which person is active in the chat? Generally, What time the other person is free for conversation? Which one member from the group is more engaged in chat? Which word is most used by a particular member in the group?
 
@@ -23,10 +23,10 @@ Check it [here](https://education.github.com/pack/gallery) under Student gallery
 
 ## Getting Started
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://whatsapp-chat-analyzer.herokuapp.com/) [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/pcsingh/WhatsApp-Chat-Analyzer?color=bluevoilet&logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/commits/) [![GitHub repo size](https://img.shields.io/github/repo-size/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://whatsapp-chat-analyzer.herokuapp.com/)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kharniwal-harsh/WhatsApp-Chat-Analyzer?logo=github)](https://whatsapp-chat-analyzer.herokuapp.com/) [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kharniwal-harsh/WhatsApp-Chat-Analyzer?color=bluevoilet&logo=github)](https://github.com/kharniwal-harsh/WhatsApp-Chat-Analyzer/commits/) [![GitHub repo size](https://img.shields.io/github/repo-size/kharniwal-harsh/WhatsApp-Chat-Analyzer?logo=github)](https://whatsapp-chat-analyzer.herokuapp.com/)
 
-**1.** Fork [this](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/) repository.
-Click on the <a href="https://github.com/pcsingh/WhatsApp-Chat-Analyzer/"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+**1.** Fork [this](https://github.com/kharniwal-harsh/WhatsApp-Chat-Analyzer/) repository.
+Click on the <a href="https://github.com/kharniwal-harsh/WhatsApp-Chat-Analyzer/"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
 
 **2.** Clone the forked repository.
 
@@ -58,7 +58,7 @@ git add .
 git commit -m "<your_commit_message>"
 ```
 
->CAUTION: Synch up your local repo with [original repo](https://github.com/pcsingh/WhatsApp-Chat-Analyzer) (Upstream) before pushing your commits.
+>CAUTION: Synch up your local repo with [original repo](https://github.com/kharniwal-harsh/WhatsApp-Chat-Analyzer) (Upstream) before pushing your commits.
 >This avoids unnecessary conflicts during the merge.
 
 **7.** Push your local commits to the remote repo.
@@ -71,12 +71,12 @@ git push -u origin <your_branch_name>
 
 **9.** **Congratulations!** Sit and relax, you've made your contribution to [WhatsApp Chat Analyzer](https://whatsapp-chat-analyzer.herokuapp.com/).
 
-**NOTE**: **Feel free to [open issues](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/issues/new/choose)**.
+**NOTE**: **Feel free to [open issues](https://github.com/kharniwal-harsh/WhatsApp-Chat-Analyzer/issues/new/choose)**.
 
 
 ## Run on Local System
 
-[![GitHub open issues](https://img.shields.io/github/issues/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/issues) [![GitHub contributors](https://img.shields.io/github/contributors/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/graphs/contributors) [![Premchandra Singh](https://img.shields.io/badge/Author-@pcsingh-gray.svg?colorA=gray&colorB=dodgerblue&logo=github)](https://github.com/pcsingh/)
+[![GitHub open issues](https://img.shields.io/github/issues/pcsingh/WhatsApp-Chat-Analyzer?logo=github)](https://github.com/kharniwal-harsh/WhatsApp-Chat-Analyzer/issues) [![GitHub contributors](https://img.shields.io/github/contributors/kharniwal-harsh/WhatsApp-Chat-Analyzer?logo=github)](https://github.com/kharniwal-harsh/WhatsApp-Chat-Analyzer/graphs/contributors) [![Premchandra Singh](https://img.shields.io/badge/Author-@harsh-kharniwal.svg?colorA=gray&colorB=dodgerblue&logo=github)](https://github.com/kharniwal-harsh/)
 
 - Install packages given in `requirements.txt` (packages need **Python 3.11.0**).
 
@@ -91,7 +91,7 @@ streamlit run app.py
 ```
 
 > **_Need help?_** 
-> **_Feel free to contact me @ [premchandra.singh.5268@gmail.com](mailto:premchandra.singh.5268@gmail.com?Subject=WhatsApp_Chat_Analyzer)_**
+> **_Feel free to contact me @ [harshkharniwal9351@gmail.com](mailto:harshkharniwal9351@gmail.com?Subject=WhatsApp_Chat_Analyzer)_**
 
 ---
 
