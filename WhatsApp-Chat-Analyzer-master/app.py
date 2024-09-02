@@ -10,7 +10,7 @@ from custom_modules import func_use_extract_data as func
 from custom_modules import func_analysis as analysis
 
 # to disable warning by file_uploader going to convert into io.TextIOWrapper
-st.set_option('deprecation.showfileUploaderEncoding', False)
+#st.set_option('deprecation.showfileUploaderEncoding', False)
 
 # ------------------------------------------------
 
@@ -18,12 +18,13 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 st.title("WhatsApp Chat Analyzer 😃")
 st.markdown(
     "This app is use to analyze your WhatsApp Chat using the exported text file 📁.")
-st.sidebar.image("./assets/images/banner.jpeg",use_column_width=True)
+#st.sidebar.image("./assets/images/banner.jpeg",use_column_width=True)
+st.sidebar.image("WhatsApp-Chat-Analyzer-master/assets/images/banner.jpeg",use_column_width=True)
 st.sidebar.title("Analyze:")
 st.sidebar.markdown(
     "This app is use to analyze your WhatsApp Chat using the exported text file 📁.")
 
-st.sidebar.markdown('<b>Prem Chandra Singh</b>\
+st.sidebar.markdown('<b>Harsh Kharniwal</b>\
                 <a href = "https://github.com/pcsingh/WhatsApp-Chat-Analyzer/" ><img src = "https://img.shields.io/badge/Author-@pcsingh-gray.svg?colorA=gray&colorB=dodgerblue&logo=github"/>\
                 <a/>', unsafe_allow_html=True)
 
