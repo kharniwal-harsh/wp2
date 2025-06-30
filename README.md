@@ -3,7 +3,7 @@
 <img src="assets/work.gif" width="640" height="328" />
 
 ---
-![whatsapp](assets/images/banner.jpeg)
+![whatsapp](WhatsApp-Chat-Analyzer/assets/images/banner.jpeg)
 
 [![GitHub license](https://img.shields.io/github/license/pcsingh/WhatsApp-Chat-Analyzer.svg?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/pcsingh/WhatsApp-Chat-Analyzer.svg?logo=github)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/stargazers) [![GitHub forks](https://img.shields.io/github/forks/pcsingh/WhatsApp-Chat-Analyzer.svg?logo=github&color=teal)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer/network/members) [![GitHub top language](https://img.shields.io/github/languages/top/pcsingh/WhatsApp-Chat-Analyzer?color=yellow&logo=python)](https://github.com/pcsingh/WhatsApp-Chat-Analyzer)
 
